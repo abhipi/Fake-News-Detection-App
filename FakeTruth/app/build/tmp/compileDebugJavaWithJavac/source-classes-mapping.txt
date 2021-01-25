@@ -1,0 +1,11 @@
+com/example/fakenewsdetector/BuildConfig.java
+ com.example.fakenewsdetector.BuildConfig
+com/example/fakenewsdetector/SecondActivity.java
+ com.example.fakenewsdetector.SecondActivity
+ com.example.fakenewsdetector.SecondActivity$1
+com/example/fakenewsdetector/MainActivity.java
+ com.example.fakenewsdetector.MainActivity
+ com.example.fakenewsdetector.MainActivity$1
+ com.example.fakenewsdetector.MainActivity$1$1
+ com.example.fakenewsdetector.MainActivity$AsyncResponse
+ com.example.fakenewsdetector.MainActivity$doIT
