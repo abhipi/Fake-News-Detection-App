@@ -96,7 +96,6 @@ public class MainActivity extends AppCompatActivity {
         @Override
         protected void onPostExecute(String aVoid) {
             super.onPostExecute(aVoid);
-           // text.setText(words);
             delegate.processFinish(aVoid);
 
 
